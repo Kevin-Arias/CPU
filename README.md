@@ -6,3 +6,4 @@ In this project I used Logisim to implement a 32-bit two-cycle processor. I impl
 
 The CPU has a 2-stage pipeline so that we are able to have instructions fetched from the instruction memory and then have it decoded, executed, and committed. The final CPU looks as follows when using Logisim:
 
+![cpu](https://user-images.githubusercontent.com/16792195/62587408-b4c56d80-b876-11e9-880e-41605074e318.png)
